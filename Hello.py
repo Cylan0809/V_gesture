@@ -1,1 +1,0 @@
-print("python：Hello World！ 測試中文 ")
